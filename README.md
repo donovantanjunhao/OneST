@@ -3,7 +3,7 @@ This repository contains my submission for the Technical Assessment from ST Engi
 
 The assessment requires creating 2 services -
 Service 1: Validation of Unique entity number (UEN) of company,
-Service 2: Weather Forecast of Singapore
+Service 2: Weather Forecast of Singapore.
 
 The codes for the 2 services are inside the corresponding folders - Service 1, Service 2. 
 
