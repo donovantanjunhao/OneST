@@ -24,7 +24,7 @@ Executing the file: (Select the project) > Run <img width="18" alt="image" src="
 
 Executing the file: Launch the (.jar) file
 
-*Note: The JAR files are located inside the "Runnable JAR File (.jar)" folder for each service. Ensure the Java is installed on computer.*
+*Note: The JAR files are located inside the "Runnable JAR File (.jar)" folder for each service. Ensure that Java is installed on computer.*
 
 
  
